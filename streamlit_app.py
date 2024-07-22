@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-ngrok_url = "https://1ab5-2401-4900-1c97-194-fc5e-448e-fb6-acba.ngrok-free.app"
+ngrok_url = "https://c558-43-242-226-35.ngrok-free.app"
 
 st.title("NCERT Curriculum Assistant Chatbot")
 st.write("Upload a PDF and interact with the Llama3 chatbot to get answers based on the document content.")
